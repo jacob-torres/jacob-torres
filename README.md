@@ -18,7 +18,7 @@ Some of my passions include:
 ### 🔭 I’m currently working on
 
 - Building an [ETL data pipeline with Python](https://github.com/jacob-torres/xetra-data-pipeline) for reporting on daily trends in [Xetra Stock Exchange](https://www.xetra.com/xetra-en/) data.
-- Creating a [commandline and web utility for managing tasks and goals](https://github.com/jacob-torres/task-tracker).
+- Creating a [commandline and web utility for managing tasks and goals.](https://github.com/jacob-torres/task-tracker)
 
 ### 💿 My Recent Projects
 
