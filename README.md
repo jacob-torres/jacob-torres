@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Jacob Torres. I'm a software developer with an emphasis on data engineering and machine learning. My favorite passtime is learning new things; there's no technology or problem I'm unwilling to tackle. I strive for excellence and mastery in everythingI do.
+My name is Jake Torres. I'm a software developer with an emphasis on data engineering and machine learning. My favorite passtime is learning new things; there's no technology or problem I'm unwilling to tackle. I strive for excellence and mastery in everythingI do.
 
-I have 3+ years of coding experience with Python, SQL, Java, and JavaScript. I'm actively learning Scala, C, and C++, and I plan on picking up Go, Rust, Julia, and R.
+I have 3+ years of programming experience  with Python, SQL, Java, and JavaScript. I'm actively learning Scala and C, and I plan on picking up Go, Rust, and Perl, among others.
 
 Some of my passions include:
 
@@ -34,5 +34,5 @@ Some of my passions include:
 
 ### 📫 How to reach me
 
-- Email: [jacob@jacobtorres.net](mailto:jacob@jacobtorres.net)
-- Linkedin: [jacob-a-torres](https://linkedin.com/in/jacob-a-torres)
+- Email: [jake@torresengineering.dev](mailto:jake@torresengineering.dev)
+- Linkedin: [jacob-a-torres](https://linkedin.com/in/jaketorres/)
