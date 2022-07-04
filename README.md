@@ -35,4 +35,4 @@ Some of my passions include:
 ### 📫 How to reach me
 
 - Email: [jake@torresengineering.dev](mailto:jake@torresengineering.dev)
-- Linkedin: [jacob-a-torres](https://linkedin.com/in/jaketorres/)
+- Linkedin: [jaketorres](https://linkedin.com/in/jaketorres/)
