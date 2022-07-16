@@ -2,7 +2,7 @@
 
 My name is Jake Torres. I'm a software developer with an emphasis on data engineering and machine learning. My favorite passtime is learning new things; there's no technology or problem I'm unwilling to tackle. I strive for excellence and mastery in everythingI do.
 
-I have 3+ years of programming experience  with Python, SQL, Java, and JavaScript. I'm actively learning Scala and C, and I plan on picking up Go, Rust, and Perl, among others.
+I have 3+ years of programming experience  with Python, SQL, Java, and JavaScript. I'm actively learning Scala, and I plan on picking up Julia, Go, Rust, and Perl, among others. Learning procedural programming with C has also been a trip!
 
 Some of my passions include:
 
@@ -36,3 +36,5 @@ Some of my passions include:
 
 - Email: [jake@torresengineering.dev](mailto:jake@torresengineering.dev)
 - Linkedin: [jaketorres](https://linkedin.com/in/jaketorres/)
+
+---
