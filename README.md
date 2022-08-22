@@ -4,7 +4,7 @@ My name is Jake Torres. I'm a software engineer, and I'm absolutely obsessed wit
 
 My favorite passtime is researching new things; there's no technology or problem I'm unwilling to tackle. I strive for excellence and mastery in everythingI do.
 
-I have 3+ years of programming experience  with Python, Java, SQL, JavaScript, and TypeScript. I'm actively learning Scala, and I plan on picking up C++, Julia, Go, and Perl, among others. Learning procedural programming with C has also been a trip!
+I have 3+ years of experience  with Python, SQL, Java, and JavaScript. I'm actively learning TypeScript and Scala, and I plan on delving into C++ and Julia in the future, among others.
 
 Some of my passions include:
 
@@ -19,7 +19,6 @@ Some of my passions include:
 
 ### 🔭 I’m currently working on
 
-- [Bird's-Eye Budgets](https://github.com/jacob-torres/birds-eye-budgets/): A web application for long-term financial planning. It will suggest optimizations with a goal of full financial independence. I will be building in Java using Spring Boot and Gradle.
 - [Travel Planner](https://github.com/jacob-torres/travel-planner/): A full Stack Web Application for making integrated travel plans all on one platform. I'm building it in Angular and Spring Boot, with plans on implementing several third-party API's and Kafka for data streaming.
 
 ### 💿 My Recent Work
@@ -35,11 +34,13 @@ Some of my passions include:
 
 ### 💭 Ideas for the Future
 
-- A full web application for the [Spotify Song Suggester](https://github.com/jacob-torres/spotify-song-suggester), including improved recommendation accuracy, user playlists, and real-time suggestion.
+- [Bird's-Eye Budgets](https://github.com/jacob-torres/birds-eye-budgets/): A web application for long-term financial planning. It will suggest optimizations with a goal of full financial independence. I will be building in Java using Spring Boot and Gradle.
+- A full Django web application for the [Spotify Song Suggester](https://github.com/jacob-torres/spotify-song-suggester), including improved recommendation accuracy, user playlists, and real-time suggestion.
 
 ### 📫 How to reach me
 
 - Email: [jake@torresengineering.dev](mailto:jake@torresengineering.dev)
 - Linkedin: [jaketorres](https://linkedin.com/in/jaketorres/)
+- Twitter: [@JakeTorres0](https://twitter.com/jaketorres0/)
 
 ---
