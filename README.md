@@ -24,7 +24,7 @@ Some of my passions include:
 ### 💿 My Recent Work
 
 - [Random String Machine](https://github.com/jacob-torres/random-string-machine/): A Flask application for creating up to 100 strings of up to 100 randomly-generated characters. The application allows for user preference in which types of characters (lowercase letters, uppercase letters, numbers, and/or special characters) will be included in the strings.
-- [Xetra ETL data pipeline](https://github.com/jacob-torres/xetra-data-pipeline/): A Python pipeline for reporting on daily trends in [Xetra Stock Exchange](https://www.xetra.com/xetra-en/) data.
+- [Xetra ETL data pipeline](https://github.com/jacob-torres/xetra-data-pipeline/): A Python pipeline for reporting on daily trends in [Xetra Stock Exchange](https://www.xetra.com/xetra-en/) data. Read more [here.](https://www.torresengineering.dev/2022-06-10-xetra-etl-pipeline/)
 - [Take-Home Income Calculator](https://github.com/jacob-torres/take-home-income-calculator/): A Python module which prompts the user for a prospective salary, tax rate, and other expenses as a percentage. It prints out the expected hourly, monthly, and yearly net income, as well as an affordable monthly rent payment based on said income.
 - [Task Tracker](https://github.com/jacob-torres/task-tracker/): A commandline and web utility for managing tasks and goals.
 - [Scribble Stadium Arcade](https://github.com/BloomTech-Labs/scribble-stadium-ds): cleaned, transferred, and built a data pipeline in the cloud using AWS.
