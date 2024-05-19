@@ -41,5 +41,3 @@ Some of my passions include:
 
 - Email: [Contact@JacobTorres.net](mailto:contact@jacobtorres.net)
 - Linkedin: [JacobATorres](https://linkedin.com/in/jacobatorres/)
-
----
