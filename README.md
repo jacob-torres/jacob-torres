@@ -2,6 +2,8 @@
 
 I'm Jacob Torres, a programmer with 5+ years of experience in Python, SQL, Java, and JavaScript. I graduated from BloomTech's Data Science and Machine Learning program, and am currently finishing my bachelor's degree in Data Science and Machine Learning with a minor in Linguistics at MSU Denver. I spent a year as a Lead Fullstack Web Developer at Scheduler AI, where I helped build and maintain intelligent scheduling infrastructure. Some of my passions include automation and scripting, software and game accessibility, music, language learning (both human and computer), history, and political science.
 
+Visit my portfolio website at [JacobTorres.net](https://jacobtorres.net/).
+
 ### 🔭 I'm currently working on
 
 - [Denver Nav](https://denver-nav.onrender.com) ([repo](https://github.com/jacob-torres/denver-nav)): An accessible navigation app designed for blind and low-vision users exploring Denver, with screen reader-friendly interfaces and audio-oriented navigation features.
